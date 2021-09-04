@@ -1,4 +1,7 @@
-###Tyler Bell
+# Tyler's First CS193 Homework
+- cs193 has its homework schedule made readily available
+- student led means the cs193 instructors went through the same CS experience I am about to go through
+- the cs193 lecture hour is in a room with good seating and visibility
 
 
 ## Welcome to GitHub Pages
